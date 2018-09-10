@@ -5,7 +5,7 @@
 
 -------------------------------------------------- Enlish --------------------------------------------------
 
-For some time ago, because the company needed to write a racing animation, I searched for ideas on the Internet and accidentally saw a code written by someone else, which met my needs, so I changed it. Source code address: https://github.com/ete8652/AnimationRacingCar
+For some time ago, because the company needed to write a racing animation, I searched for ideas on the Internet and accidentally saw a code written by someone else, which met my needs, so I changed it. Original author GitHub: ete8652/AnimationRacingCar.Respect the original author and only communicate.
 
 ### Requirements:
 
@@ -16,13 +16,15 @@ For some time ago, because the company needed to write a racing animation, I sea
 
 -------------------------------------------------- 中文 --------------------------------------------------
 
-为前段时间因公司需要写个赛车动画，于是在网上搜索思路，无意间看到一个别人写的代码，正好符合我的需求，于是便拿来改了改。原作者代码地址：https://github.com/ete8652/AnimationRacingCar
+为前段时间因公司需要写个赛车动画，于是在网上搜索思路，无意间看到一个别人写的代码，正好符合我的需求，于是便拿来改了改。原作者GitHub：ete8652/AnimationRacingCar,尊重原作者，仅作交流。
 
 ### 需求：
 
 1.赛车有加速动画，轮子滚动，有空气、火焰效果
 2.能实时根据赛车位置，展示赛车排行。
 3.背景图一直循环滚动
+
+### 部分代码：
 
 ```
 //切换图片(定时器调用)
