@@ -21,9 +21,7 @@ For some time ago, because the company needed to write a racing animation, I sea
 ### 需求：
 
 1.赛车有加速动画，轮子滚动，有空气、火焰效果
-
 2.能实时根据赛车位置，展示赛车排行。
-
 3.背景图一直循环滚动
 
 ### 部分代码：
